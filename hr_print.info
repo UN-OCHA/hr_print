@@ -12,5 +12,6 @@ features[variable][] = print_footer_options
 features[variable][] = print_html_link_pos
 features[variable][] = print_html_new_window
 features[variable][] = print_html_show_link
+features[variable][] = print_html_sys_link_visibility
 features[variable][] = print_logo_options
 features[variable][] = print_sourceurl_enabled
